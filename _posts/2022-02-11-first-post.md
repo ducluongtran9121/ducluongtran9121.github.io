@@ -2,11 +2,11 @@
 title: The very first post 💕
 subtitle: Mục lục của Janlele91 Blog hí
 thumbnail-img: /assets/img/hello_world.jpeg
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/cover-firstpost.jpeg
 readtime: true
 ---
 
-Hí các bạn, 
+## **Hí các bạn,** 
 
 Lần đầu tiên mình viết blog nên còn bỡ ngỡ, anh em có thấy gì bất hợp lí thì alo qua mấy cái link dưới footer nha 😖.
 
