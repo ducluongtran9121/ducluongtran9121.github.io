@@ -18,7 +18,7 @@ navbar-links:
   Categories:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -40,12 +40,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ducluongtran9121@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: janlele91
   github: ducluongtran9121
-  instagram: deanat78
+  instagram: janlele91
   youtube: channel/UCJEZ0kxDyPDLrmunILWzA9g
-  linkedin: in/ducluongtran9121/?fbclid=IwAR2SP0eIHkPuGl6mut3TZRzSTaDICfeH1o8L22EghbT-qt1lPpGPCUtAsmU
+  linkedin: in/ducluongtran9121
 # twitter: daattali
 # patreon: DeanAttali
 # medium: yourname

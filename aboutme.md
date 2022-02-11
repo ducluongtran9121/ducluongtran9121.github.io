@@ -1,16 +1,27 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Chào mừng tới zới thế giới của janlele91
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Intro
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello mọi người, tui là *Trần Đức Lương* hay còn được biết đến với *janlele91* hi.
 
-What else do you need?
+Đây là một chiếc blog về CyberSecurity mà tui muốn lưu lại những gì mà tui cùng các teammates đã làm được trong suốt 4 năm đại học tại *UIT-HCMVNU*. 
 
-### My story
+### Thành tựu
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Thủ khoa đầu vào ĐH CNTT - ĐHQG TPHCM (UIT-HCMVNU) năm 2019 với 27.65 điểm khối A1:
+  - Toán: 9.8
+  - Tiếng Anh: 9.6
+  - Vật Lí: 8.25
+
+- Tác giả chính trong [bài báo](https://ieeexplore.ieee.org/document/9701450?fbclid=IwAR0N6v_RzWSvDOdojyE2Bt-tgbcXemgiTRcmKe_coFUMurWRKn49qwBLDzM) được chấp nhận tại hội nghị [NICS'2021](http://nafosted-nics.org/).
+
+
+### Sở thích :
+
+- Mình thích bóng đá, có trái tym nồng nàn với Manchester United.
+- Thích tiền và làm mọi thứ liên quan đến tiền kaka.
+- Thích cái gì đó bí mật, chằng hạn như exploit máy để tìm flag mặc dù trình còn non.
