@@ -17,7 +17,7 @@ Hello mọi người, tui là *Trần Đức Lương* hay còn được biết �
   - Tiếng Anh: 9.6
   - Vật Lí: 8.25
 
-- Tác giả chính trong [bài báo](https://ieeexplore.ieee.org/document/9701450?fbclid=IwAR0N6v_RzWSvDOdojyE2Bt-tgbcXemgiTRcmKe_coFUMurWRKn49qwBLDzM) được chấp nhận tại hội nghị [NICS'2021](http://nafosted-nics.org/).
+- Tác giả chính trong bài báo [FedChain](https://ieeexplore.ieee.org/document/9701450?fbclid=IwAR0N6v_RzWSvDOdojyE2Bt-tgbcXemgiTRcmKe_coFUMurWRKn49qwBLDzM) được chấp nhận tại hội nghị [NICS'2021](http://nafosted-nics.org/).
 
 
 ### Sở thích :
