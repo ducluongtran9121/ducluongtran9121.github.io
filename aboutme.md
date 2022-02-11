@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Chào mừng tới zới thế giới của janlele91
+subtitle: Một chút in tư về bản thân kiki
 ---
 
 ### Intro
@@ -19,8 +19,10 @@ Hello mọi người, tui là *Trần Đức Lương* hay còn được biết �
 
 - Tác giả chính trong bài báo [FedChain](https://ieeexplore.ieee.org/document/9701450?fbclid=IwAR0N6v_RzWSvDOdojyE2Bt-tgbcXemgiTRcmKe_coFUMurWRKn49qwBLDzM) được chấp nhận tại hội nghị [NICS'2021](http://nafosted-nics.org/).
 
+- IELTS 6.5 
 
-### Sở thích :
+
+### Sở thích
 
 - Mình thích bóng đá, có trái tym nồng nàn với Manchester United.
 - Thích tiền và làm mọi thứ liên quan đến tiền kaka.

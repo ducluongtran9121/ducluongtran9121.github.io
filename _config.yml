@@ -27,7 +27,7 @@ navbar-links:
 avatar: "/assets/img/avatar_janlele91.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -45,7 +45,7 @@ social-network-links:
   github: ducluongtran9121
   instagram: janlele91
   youtube: channel/UCJEZ0kxDyPDLrmunILWzA9g
-  linkedin: in/ducluongtran9121
+  linkedin: ducluongtran9121
 # twitter: daattali
 # patreon: DeanAttali
 # medium: yourname
