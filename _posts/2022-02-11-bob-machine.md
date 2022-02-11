@@ -2,7 +2,7 @@
 title: Bob Machine Writeup
 subtitle: Linux Challenge trong môn An toàn mạng máy tính
 readtime: true
-thumbnail-img: /assets/img/BobMachine/libssh-thumbnail.jpeg
+thumbnail-img: /assets/img/BobMachine/thumbnail.jpeg
 cover-img: /assets/img/BobMachine/cover.jpeg
 tags: [Linux, Machine, Libssh, CVE]
 ---
