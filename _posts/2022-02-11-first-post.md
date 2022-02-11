@@ -12,7 +12,7 @@ Lần đầu tiên mình viết blog nên còn bỡ ngỡ, anh em có thấy gì
 
 ![hacker](/assets/img/hacker.jpg)
 
-Mục tiêu của chiếc post này là để giúp mọi người biết mình nên đọc gì trong blog của tui nhó. Hiện tại mình đã và đang học chuyên ngành *An toàn thông tin* tại UIT-HCMVNU nên blog này gần sẽ là các bài liên quan đến:
+Mục tiêu của chiếc post này là để giúp mọi người biết mình nên đọc gì trong blog của tui nhó. Hiện tại mình đã và đang học chuyên ngành *An toàn thông tin* tại UIT-HCMVNU nên blog này gần sẽ là cácS bài liên quan đến:
 
 ### **Capture the Flag (CTF)** 
 
