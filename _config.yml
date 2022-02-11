@@ -15,7 +15,7 @@ author: janlele91
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Categories:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar_janlele91.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -42,17 +42,18 @@ social-network-links:
   email: "ducluongtran9121@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: janlele91
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
+  github: ducluongtran9121
+  instagram: deanat78
+  youtube: channel/UCJEZ0kxDyPDLrmunILWzA9g
+  linkedin: in/ducluongtran9121/?fbclid=IwAR2SP0eIHkPuGl6mut3TZRzSTaDICfeH1o8L22EghbT-qt1lPpGPCUtAsmU
+# twitter: daattali
+# patreon: DeanAttali
+# medium: yourname
+# reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
