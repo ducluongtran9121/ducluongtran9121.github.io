@@ -1,8 +1,8 @@
 ---
 title: Bob Machine Writeup
-subtitile: Linux Challenge trong môn An toàn mạng máy tính
+subtitle: Linux Challenge trong môn An toàn mạng máy tính
 readtime: true
-tags: [linux, machine, Libssh, CVE]
+tags: [Linux, Machine, Libssh, CVE]
 ---
 
 # ***Thông tin dịch vụ***
@@ -79,21 +79,32 @@ if __name__ == '__main__':
 
 Sử dụng công cụ nmap thực hiện quét các port đáng mở trên máy mục tiêu 192.168.19.112. Kết quả cho thấy có 12 port TCP đáng mở gồm: `22, 25 53, 80, 110, 143, 443, 587, 993, 995, 3306, 7337`.
 
-Sau nhiều thời gian khám phá, scan tất cả các port từ trên xuống dửới, nhóm tìm ra lỗ hổng từ port `7337` với dịch vụ SSH phiên bản `libssh 0.8.3`
+![nmap all ports](/assets/img/BobMachine/nmap.png)
 
-Thực hiện tìm kiếm các mã exploit phiên bản libssh này bằng công cụ searchsploit. Kết quả trả về 2 lỗ hổng liên quán đến libssh bao gồm mã exploit có thể sử dụng. Sau quá trình khai thác lỗ hổng đầu tiên không thành công, nhóm thực hiện khai thác lỗ hổng `Unauthorized Access` của libssh (đã đề cập ở trên). Truy cập đửờng
-dẫn và sử dụng mã nguồn đã cung cấp ở trên.
+Sau nhiều thời gian khám phá, scan tất cả các port từ trên xuống dưới, ta tìm ra lỗ hổng từ port `7337` với dịch vụ SSH phiên bản `libssh 0.8.3`
 
-Mã exploit trên là đoạn mã python3, được nhóm sử dụng với 3 tham số: `IP nạn nhân (192.168.19.112), Port (7337), Command (lệnh thực thi trên shell)`. Dửới đây chúng tôi sử dụng lệnh `ls` để kiểm chứng.
+![nmap 7337](/assets/img/BobMachine/nmap2.png)
 
-Kết quả trả về gồm các thử mục hiện có trên máy nạn nhân.
+Thực hiện tìm kiếm các mã exploit phiên bản libssh này bằng công cụ searchsploit. Kết quả trả về 2 lỗ hổng liên quan đến libssh bao gồm mã exploit có thể sử dụng. Sau quá trình khai thác lỗ hổng đầu tiên không thành công, ta thực hiện khai thác lỗ hổng `Unauthorized Access` của libssh (đã đề cập ở trên). Truy cập đường dẫn và sử dụng mã nguồn đã cung cấp ở trên.
+
+![searchsploit](/assets/img/BobMachine/libssh_cve.png)
+
+Mã exploit trên là đoạn mã python3, được ta sử dụng với 3 tham số: `IP nạn nhân (192.168.19.112), Port (7337), Command (lệnh thực thi trên shell)`. Dưới đây chúng tôi sử dụng lệnh `ls` để kiểm chứng.
+
+![ls](/assets/img/BobMachine/exploit_ls.png)
+
+Kết quả trả về gồm các thư mục hiện có trên máy nạn nhân.
 
 **Hình ảnh minh chứng:**
 
 Kiểm tra tên user bằng lệnh whoami, thì kết quả cho thấy chúng tôi đã exploit được và leo thang đặc quyền lên root.
 
+![whoami](/assets/img/BobMachine/whoami.png)
+
 **Nội dung tập tin Proof.txt:**
 
 Tìm kiếm file proof.txt bằng `find / -uname proof.txt 2>/dev/null`. Kết quả trả về `root/proof.txt`, `cat` để xem nội dung flag có trong tập tin proof.txt.
+
+![flag](/assets/img/BobMachine/flag.png)
 
 > **FLAG: flag{khong_som_thi_chieu_khong_mai_thi_mo}**

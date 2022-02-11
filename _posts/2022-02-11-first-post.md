@@ -1,8 +1,8 @@
 ---
 title: The very first post 💕
 subtitle: Mục lục của Janlele91 Blog hí
-thumbnail-img: /assets/img/hello_world.jpeg
-cover-img: /assets/img/cover-firstpost.jpeg
+thumbnail-img: /assets/img/FirstPost/hello_world.jpeg
+cover-img: /assets/img/FirstPost/cover-firstpost.jpeg
 readtime: true
 ---
 
@@ -10,7 +10,7 @@ readtime: true
 
 Lần đầu tiên mình viết blog nên còn bỡ ngỡ, anh em có thấy gì bất hợp lí thì alo qua mấy cái link dưới footer nha 😖.
 
-![hacker](/assets/img/hacker.jpg)
+![hacker](/assets/img/FirstPost/hacker.jpg)
 
 Mục tiêu của chiếc post này là để giúp mọi người biết mình nên đọc gì trong blog của tui nhó. Hiện tại mình đã và đang học chuyên ngành *An toàn thông tin* tại UIT-HCMVNU nên blog này gần sẽ là cácS bài liên quan đến:
 
