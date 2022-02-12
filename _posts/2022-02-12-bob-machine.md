@@ -7,6 +7,8 @@ cover-img: /assets/img/BobMachine/cover-img.jpeg
 tags: [Linux, Machine, Libssh, CVE]
 ---
 
+Đây là một Linux Box ở mức tương đối dễ. Tuy nhiên, để khi làm những bài như này sẽ giúp nâng cao trình exploit và rèn luyện tư duy của mình dần dần.  
+
 # ***Thông tin dịch vụ***
 
 | Địa chỉ IP      | Các port đang mở |
