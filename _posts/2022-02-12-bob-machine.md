@@ -7,16 +7,18 @@ cover-img: /assets/img/BobMachine/cover-img.jpeg
 tags: [Linux, Machine, Libssh, CVE]
 ---
 
+## Hí,
+
 Đây là một Linux Box ở mức tương đối dễ. Tuy nhiên, để khi làm những bài như này sẽ giúp nâng cao trình exploit và rèn luyện tư duy của mình dần dần.  
 
-# ***Thông tin dịch vụ***
+## **Thông tin dịch vụ**
 
 | Địa chỉ IP      | Các port đang mở |
 | ----------- | ----------- |
 | 192.168.19.112  | TCP: 22, 25, 53, 80, 110, 143, 443, 587, 993,995, 3306, 7337   |
 |    | UDP: Không có  |
 
-# ***Leo thang đặc quyền***
+## **Leo thang đặc quyền**
 
 **Lỗ hổng đã khai thác:**
 
@@ -112,3 +114,5 @@ Tìm kiếm file proof.txt bằng `find / -uname proof.txt 2>/dev/null`. Kết q
 ![flag](/assets/img/BobMachine/flag.png){: .mx-auto.d-block :}
 
 > **FLAG: flag{khong_som_thi_chieu_khong_mai_thi_mo}**
+
+Tèn tèn, đã giải quyết xong challenge này tương đối easy vì đã có code exploit sẵn.
