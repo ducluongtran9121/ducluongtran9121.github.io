@@ -24,7 +24,7 @@ Win7SP1x64 là profile được chọn.
 
 ![image1](/assets/img/Dump.raw/image1.png){: .mx-auto.d-block :}
 
-### ***Challenge 1:** Ghép các file khả nghi thành flag.*
+#### ***Challenge 1:** Ghép các file khả nghi thành flag.*
 
 Sau một thời gian kiểm tra các tiến trình không có gì đặc biệt, mình sử dụng plugin `shellbags` để trích xuất thông tin từ registry xem timeline lần cuối user truy cập thư mục và file gì.
 
