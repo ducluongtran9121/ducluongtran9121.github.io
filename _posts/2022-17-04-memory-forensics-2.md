@@ -1,7 +1,7 @@
 ---
 title: Dump.raw Memory Forensis
 subtitle: Challenge 2 in mid-term Forensics
-cover-img: /assets//assets/img/Dump.raw/Memory.dmp/Cover.png
+cover-img: /assets/img/Memory.dmp/Cover.png
 tags: [Windows, Forensics, Memory, CTF]
 readtime: true
 ---
