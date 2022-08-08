@@ -1,5 +1,5 @@
 ---
-title: [Write-Up] Bob Machine
+title: \[Write-Up\] Bob Machine
 subtitle: Linux Challenge trong môn An toàn mạng máy tính
 readtime: true
 thumbnail-img: /assets/img/BobMachine/thumbnail.jpeg

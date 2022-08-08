@@ -1,5 +1,5 @@
 ---
-title: [Write-Up] Memory Dump Forensis
+title: \[Write-Up\] Memory Dump Forensis
 subtitle: Challenge 1 in mid-term Forensics
 cover-img: /assets/img/Memory.dmp/Cover.png
 thumbnail-img:
