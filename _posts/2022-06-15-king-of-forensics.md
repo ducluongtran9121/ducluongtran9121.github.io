@@ -1,5 +1,5 @@
 ---
-title: King of Forensics
+title: [Write-Up] King of Forensics
 subtitle: Two challenges in the final-term exam
 cover-img: /assets/img/KingofForensics/cover-image.jpg
 thumbnail-img:
