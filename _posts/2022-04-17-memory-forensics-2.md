@@ -1,5 +1,5 @@
 ---
-title: \[Writeup\] Dump.raw Memory Forensis
+title: WRITEUP - Dump.raw Memory Forensis
 subtitle: Challenge 2 in mid-term Forensics
 cover-img: /assets/img/Memory.dmp/Cover.png
 thumbnail-img:

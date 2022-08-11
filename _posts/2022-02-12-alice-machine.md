@@ -1,5 +1,5 @@
 ---
-title: [Write-Up] Alice Machine
+title: WRITEUP - Alice Machine
 subtitle: Windows Challenge trong môn An toàn mạng máy tính
 readtime: true
 cover-img: /assets/img/AliceMachine/cover.jpeg

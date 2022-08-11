@@ -1,5 +1,5 @@
 ---
-title: [Write-Up] Bandit Wargame
+title: WRITEUP - Bandit Wargame
 subtitle: Wargame về Linux 
 readtime: true
 thumbnail-img: 
